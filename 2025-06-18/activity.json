@@ -2,7 +2,7 @@
   "date": "2025-06-18",
   "projects": {
     "app [Container registration-app (calm-app)]": {
-      "totalLinesAdded": 518,
+      "totalLinesAdded": 539,
       "totalLinesRemoved": 14,
       "totalActiveTime": 12,
       "files": {
@@ -97,6 +97,20 @@
             "fileType": ".rb",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "app [Container registration-app (calm-app)]",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "rb"
+          },
+          {
+            "timestamp": "2025-06-18T12:15:08.257Z",
+            "fileName": "/app/spec/appl/system/course_enrolment_spec.rb",
+            "fileType": ".rb",
+            "linesAdded": 21,
+            "linesRemoved": 0,
             "projectName": "app [Container registration-app (calm-app)]",
             "content": {
               "added": [],
