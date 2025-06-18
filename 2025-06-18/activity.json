@@ -1,0 +1,75 @@
+{
+  "date": "2025-06-18",
+  "projects": {
+    "app [Container registration-app (calm-app)]": {
+      "totalLinesAdded": 517,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 3,
+      "files": {
+        "/app/spec/appl/system/course_enrolment_spec.rb": [
+          {
+            "timestamp": "2025-06-18T11:37:06.459Z",
+            "fileName": "/app/spec/appl/system/course_enrolment_spec.rb",
+            "fileType": ".rb",
+            "linesAdded": 516,
+            "linesRemoved": 0,
+            "projectName": "app [Container registration-app (calm-app)]",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "rb"
+          },
+          {
+            "timestamp": "2025-06-18T11:38:14.189Z",
+            "fileName": "/app/spec/appl/system/course_enrolment_spec.rb",
+            "fileType": ".rb",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "app [Container registration-app (calm-app)]",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "rb"
+          },
+          {
+            "timestamp": "2025-06-18T11:38:36.515Z",
+            "fileName": "/app/spec/appl/system/course_enrolment_spec.rb",
+            "fileType": ".rb",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "app [Container registration-app (calm-app)]",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rb"
+          }
+        ]
+      },
+      "languageStats": {
+        "rb": 3
+      },
+      "changeFrequency": {
+        "11": 3
+      },
+      "topFiles": [
+        "/app/spec/appl/system/course_enrolment_spec.rb"
+      ],
+      "averageChangeSize": 173
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "rb"
+  ]
+}
