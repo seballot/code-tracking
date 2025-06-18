@@ -5,13 +5,13 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 517                                          |
-| **Lines Removed** (➖) | 2                                        |
-| **Net Change** (↕)    | 515                |
-| **Active Time** (⌚)   | 3 minutes |
+| **Lines Removed** (➖) | 12                                        |
+| **Net Change** (↕)    | 505                |
+| **Active Time** (⌚)   | 7 minutes |
 
 
 ## Modified Files
-- **course_enrolment_spec.rb** (+517, -2)
+- **course_enrolment_spec.rb** (+517, -12)
 
 ## Visualizations
 
@@ -20,7 +20,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".rb" : 519
+".rb" : 529
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +28,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"11h" : 3
+"11h" : 4
 ```
 
 
-> **Last Updated:** 6/18/2025, 11:40:13 AM
+> **Last Updated:** 6/18/2025, 11:45:13 AM
