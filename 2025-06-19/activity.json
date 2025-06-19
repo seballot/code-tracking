@@ -1,0 +1,92 @@
+{
+  "date": "2025-06-19",
+  "projects": {
+    "app [Container registration-app (calm-app)]": {
+      "totalLinesAdded": 713,
+      "totalLinesRemoved": 16,
+      "totalActiveTime": 4,
+      "files": {
+        "/app/spec/system_spec_helper.rb": [
+          {
+            "timestamp": "2025-06-19T07:42:34.371Z",
+            "fileName": "/app/spec/system_spec_helper.rb",
+            "fileType": ".rb",
+            "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "app [Container registration-app (calm-app)]",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "rb"
+          },
+          {
+            "timestamp": "2025-06-19T07:42:34.496Z",
+            "fileName": "/app/spec/system_spec_helper.rb",
+            "fileType": ".rb",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "app [Container registration-app (calm-app)]",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rb"
+          },
+          {
+            "timestamp": "2025-06-19T07:43:26.686Z",
+            "fileName": "/app/spec/system_spec_helper.rb",
+            "fileType": ".rb",
+            "linesAdded": 0,
+            "linesRemoved": 16,
+            "projectName": "app [Container registration-app (calm-app)]",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "rb"
+          }
+        ],
+        "/app/spec/appl/system/course_enrolment_spec.rb": [
+          {
+            "timestamp": "2025-06-19T07:44:36.438Z",
+            "fileName": "/app/spec/appl/system/course_enrolment_spec.rb",
+            "fileType": ".rb",
+            "linesAdded": 606,
+            "linesRemoved": 0,
+            "projectName": "app [Container registration-app (calm-app)]",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "rb"
+          }
+        ]
+      },
+      "languageStats": {
+        "rb": 4
+      },
+      "changeFrequency": {
+        "7": 4
+      },
+      "topFiles": [
+        "/app/spec/system_spec_helper.rb",
+        "/app/spec/appl/system/course_enrolment_spec.rb"
+      ],
+      "averageChangeSize": 182.25
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    7
+  ],
+  "mostUsedLanguages": [
+    "rb"
+  ]
+}
