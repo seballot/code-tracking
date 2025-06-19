@@ -2,7 +2,7 @@
   "date": "2025-06-19",
   "projects": {
     "app [Container registration-app (calm-app)]": {
-      "totalLinesAdded": 1179,
+      "totalLinesAdded": 4067,
       "totalLinesRemoved": 42,
       "totalActiveTime": 22,
       "files": {
@@ -90,6 +90,20 @@
             },
             "duration": 3,
             "language": "rb"
+          },
+          {
+            "timestamp": "2025-06-19T08:57:36.467Z",
+            "fileName": "/app/spec/system_spec_helper.rb",
+            "fileType": ".rb",
+            "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "app [Container registration-app (calm-app)]",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "rb"
           }
         ],
         "/app/spec/appl/system/course_enrolment_spec.rb": [
@@ -148,6 +162,20 @@
             },
             "duration": 1,
             "language": "rb"
+          },
+          {
+            "timestamp": "2025-06-19T08:57:36.459Z",
+            "fileName": "/app/spec/appl/system/course_enrolment_spec.rb",
+            "fileType": ".rb",
+            "linesAdded": 79,
+            "linesRemoved": 0,
+            "projectName": "app [Container registration-app (calm-app)]",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "rb"
           }
         ],
         "/app/Gemfile": [
@@ -177,6 +205,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-06-19T08:57:36.463Z",
+            "fileName": "/app/Gemfile",
+            "fileType": "unknown",
+            "linesAdded": 250,
+            "linesRemoved": 0,
+            "projectName": "app [Container registration-app (calm-app)]",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "unknown"
           }
         ],
@@ -222,6 +264,20 @@
             },
             "duration": 1,
             "language": "yml"
+          },
+          {
+            "timestamp": "2025-06-19T08:57:36.455Z",
+            "fileName": "/app/docker-compose.yml",
+            "fileType": ".yml",
+            "linesAdded": 108,
+            "linesRemoved": 0,
+            "projectName": "app [Container registration-app (calm-app)]",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yml"
           }
         ],
         "/app/app/services/dana_list_service.rb": [
@@ -230,6 +286,54 @@
             "fileName": "/app/app/services/dana_list_service.rb",
             "fileType": ".rb",
             "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "app [Container registration-app (calm-app)]",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "rb"
+          }
+        ],
+        "/app/engines/appl/app/models/appl/enrolment_form.rb": [
+          {
+            "timestamp": "2025-06-19T08:57:36.479Z",
+            "fileName": "/app/engines/appl/app/models/appl/enrolment_form.rb",
+            "fileType": ".rb",
+            "linesAdded": 500,
+            "linesRemoved": 0,
+            "projectName": "app [Container registration-app (calm-app)]",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "rb"
+          }
+        ],
+        "/app/engines/appl/app/models/appl/enrolment_form_validations.rb": [
+          {
+            "timestamp": "2025-06-19T08:57:36.475Z",
+            "fileName": "/app/engines/appl/app/models/appl/enrolment_form_validations.rb",
+            "fileType": ".rb",
+            "linesAdded": 337,
+            "linesRemoved": 0,
+            "projectName": "app [Container registration-app (calm-app)]",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "rb"
+          }
+        ],
+        "/app/app/models/events/event.rb": [
+          {
+            "timestamp": "2025-06-19T08:57:36.471Z",
+            "fileName": "/app/app/models/events/event.rb",
+            "fileType": ".rb",
+            "linesAdded": 1522,
             "linesRemoved": 0,
             "projectName": "app [Container registration-app (calm-app)]",
             "content": {
